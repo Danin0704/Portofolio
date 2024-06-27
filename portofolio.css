@@ -26,6 +26,9 @@ html {
     background-color: #181824;
 }
 
+li a:hover {
+    color: #7562e0;
+}
 
 ul {
     list-style-type: none;
@@ -500,6 +503,9 @@ li a {
     width: 90%;
     height: 90%;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
 
 .img1 {
@@ -1179,6 +1185,9 @@ li a {
         width: 90%;
         height: 90%;
         flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
     }
     
     .img1 {
@@ -1753,6 +1762,9 @@ li a {
         width: 90%;
         height: 90%;
         flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        align-items: center;
     }
     
     .img1 {
